@@ -3,7 +3,7 @@
 ### AI Engineer | Data & Cloud Enthusiast | Building Intelligent Enterprise Solutions
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" alt="visitor badge" />
+  <img src="https://komarev.com/ghpvc/?username=F-A-I-C-Y&label=Profile%20Views&color=blue&style=flat" alt="visitor badge" />
 </p>
 
 ---
