@@ -41,8 +41,9 @@ AI Engineer | Data & Cloud Enthusiast | Building Intelligent Enterprise Solution
 
 ### Backend & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Lambda](https://img.shields.io/badge/AWS Lambda-FF9900?style=for-the-badge)
-![Amazon S3](https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge)
+![Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge)
+
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge)
 
 ### AI / ML
 ![Amazon Bedrock](https://img.shields.io/badge/Bedrock-FF9900?style=for-the-badge)
@@ -68,15 +69,6 @@ AI-powered document intelligence system for automating insurance document extrac
 Modernizing enterprise insurance workflow with AI-powered automation and intelligent recommendations.
 
 **Tech:** AWS • AI/ML • Document Intelligence • Cloud Architecture
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=F-A-I-C-Y&show_icons=true&theme=tokyonight"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=F-A-I-C-Y&layout=compact&theme=tokyonight"/>
-</p>
 
 ---
 
